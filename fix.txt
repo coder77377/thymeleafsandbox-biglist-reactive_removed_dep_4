@@ -1,0 +1,8 @@
+The following dependency needs to be added:
+
+```xml
+<dependency>
+	<groupId>org.springframework</groupId
+	<artifactId>spring-context-support</artifactId
+</dependency>
+```
